@@ -27,7 +27,7 @@ st.markdown("""
 <style>
 .stApp {
     background: linear-gradient(135deg, #101827, #172554);
-    color: dark blue;
+    color: white;
 }
 .main-title {
     font-size: 42px;
@@ -364,10 +364,4 @@ st.divider()
 
 st.markdown(
     """
-    <center>
-    <p>Made with ❤️ using Python, Streamlit and Transformer AI</p>
-    <p>Class 12 Artificial Intelligence Project</p>
-    </center>
-    """,
-    unsafe_allow_html=True
-)
+    <cente
